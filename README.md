@@ -3,7 +3,7 @@
 Welcome to my page!
 I'm Elis, frontend developer from Moscow, Russia.
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/Elis%20Elens-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/eliselens/) [<img alt="Telegram" src="https://img.shields.io/badge/@elisfemina-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/elisheka) [<img alt="Instagram" src="https://img.shields.io/badge/elisfemina-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>](https://instagram.com/elis.elens) [<img alt="Gmail" src="https://img.shields.io/badge/inituniti@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:inituniti@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/elisfem-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/eliselens/) [<img alt="Telegram" src="https://img.shields.io/badge/@elisfemina-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/elisheka) [<img alt="Instagram" src="https://img.shields.io/badge/elisfemina-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>](https://instagram.com/elis.elens) [<img alt="Gmail" src="https://img.shields.io/badge/inituniti@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:inituniti@gmail.com)
 
 - Position:  Junior Frontend/Backend developer
 - Interests: desing, architecture, fashion, web development
