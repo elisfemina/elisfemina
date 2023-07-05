@@ -17,7 +17,5 @@ I'm Elis, frontend developer from Moscow, Russia.
 
 ### 📈 My stats (could be better, all work in gitlab): 
 
-![Profile views](https://gpvc.arturio.dev/elisfemina)
-
 ![elisheka's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisfemina&count_private=true&show_icons=true&theme=darcula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisfemina&theme=darcula&layout=compact)
